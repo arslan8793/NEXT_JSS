@@ -1,0 +1,115 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "instrument": "Guitar",
+        "title": "Beginner Guitar Course",
+        "description": "This course is designed for absolute beginners who want to learn how to play the guitar. No prior experience is required.",
+        "level": "Beginner",
+        "duration": "8 weeks",
+        "instructor": "John Smith",
+        "price": 99.99,
+        "image": "https://example.com/beginner_guitar_course.jpg"
+      },
+      {
+        "id": 2,
+        "instrument": "Guitar",
+        "title": "Intermediate Guitar Techniques",
+        "description": "Take your guitar playing to the next level with this intermediate course focusing on techniques such as fingerpicking, chord progressions, and soloing.",
+        "level": "Intermediate",
+        "duration": "12 weeks",
+        "instructor": "Emily Johnson",
+        "price": 149.99,
+        "image": "https://example.com/intermediate_guitar_techniques.jpg"
+      },
+      {
+        "id": 3,
+        "instrument": "Guitar",
+        "title": "Advanced Guitar Masterclass",
+        "description": "Refine your skills and explore advanced concepts in this masterclass for experienced guitarists. Dive deep into improvisation, music theory, and advanced repertoire.",
+        "level": "Advanced",
+        "duration": "10 weeks",
+        "instructor": "Michael Rodriguez",
+        "price": 199.99,
+        "image": "https://example.com/advanced_guitar_masterclass.jpg"
+      },
+      {
+        "id": 4,
+        "instrument": "Guitar",
+        "title": "Guitar Theory Fundamentals",
+        "description": "Learn the essential music theory concepts that every guitarist should know, including scales, chords, and progressions.",
+        "level": "Beginner/Intermediate",
+        "duration": "6 weeks",
+        "instructor": "Sarah Lee",
+        "price": 79.99,
+        "image": "https://example.com/guitar_theory_fundamentals.jpg"
+      },
+      {
+        "id": 5,
+        "instrument": "Guitar",
+        "title": "Acoustic Guitar Basics",
+        "description": "Discover the beauty of acoustic guitar playing with this introductory course covering basic chords, strumming patterns, and popular songs.",
+        "level": "Beginner",
+        "duration": "8 weeks",
+        "instructor": "David Brown",
+        "price": 89.99,
+        "image": "https://example.com/acoustic_guitar_basics.jpg"
+      },
+      {
+        "id": 6,
+        "instrument": "Guitar",
+        "title": "Blues Guitar Workshop",
+        "description": "Immerse yourself in the world of blues guitar with this workshop-style course. Learn iconic riffs, licks, and improvisation techniques.",
+        "level": "Intermediate/Advanced",
+        "duration": "10 weeks",
+        "instructor": "Robert Johnson",
+        "price": 159.99,
+        "image": "https://example.com/blues_guitar_workshop.jpg"
+      },
+      {
+        "id": 7,
+        "instrument": "Guitar",
+        "title": "Electric Guitar Effects Mastery",
+        "description": "Unlock the potential of your electric guitar with this course on effects pedals, signal chains, and sound sculpting techniques.",
+        "level": "Intermediate/Advanced",
+        "duration": "8 weeks",
+        "instructor": "Alex Turner",
+        "price": 129.99,
+        "image": "https://example.com/electric_guitar_effects.jpg"
+      },
+      {
+        "id": 8,
+        "instrument": "Guitar",
+        "title": "Fingerstyle Guitar Techniques",
+        "description": "Develop your fingerstyle guitar skills with this course focusing on Travis picking, classical fingerpicking, and modern fingerstyle techniques.",
+        "level": "Intermediate",
+        "duration": "8 weeks",
+        "instructor": "Olivia Moore",
+        "price": 139.99,
+        "image": "https://example.com/fingerstyle_guitar_techniques.jpg"
+      },
+      {
+        "id": 9,
+        "instrument": "Guitar",
+        "title": "Jazz Guitar Improvisation",
+        "description": "Explore the art of improvisation in jazz guitar with this comprehensive course covering scales, chord voicings, and soloing concepts.",
+        "level": "Intermediate/Advanced",
+        "duration": "12 weeks",
+        "instructor": "Charlie Parker",
+        "price": 169.99,
+        "image": "https://example.com/jazz_guitar_improvisation.jpg"
+      },
+      {
+        "id": 10,
+        "instrument": "Guitar",
+        "title": "Metal Guitar Shredding Techniques",
+        "description": "Master the high-speed techniques of metal guitar playing, including shredding, sweep picking, and advanced soloing approaches.",
+        "level": "Advanced",
+        "duration": "8 weeks",
+        "instructor": "James Hetfield",
+        "price": 179.99,
+        "image": "https://example.com/metal_guitar_shredding.jpg"
+      }
+    ]
+  }
+  
